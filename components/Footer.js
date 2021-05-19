@@ -34,7 +34,7 @@ export function Footer() {
         </div>
       </div>
       <div className="bg-gold-mobile md:bg-gold-website md:min-h-full ">
-        <p className="text-center text-sm p-1  sm:p-3 sm:text-md">
+        <p className="text-center text-sm p-1  xl:p-3 sm:text-md">
           © 2021 BITNANCE CO., LTD ALL RIGHTS RESERVED
         </p>
       </div>
