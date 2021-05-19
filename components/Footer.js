@@ -23,7 +23,6 @@ export function Footer() {
             </div>
 
             <div>
-              {' '}
               <p className="text-bnc-yellow text-xl mt-10 sm:mt-0 font-semibold">
                 ติดตามเรา
               </p>
@@ -35,9 +34,6 @@ export function Footer() {
         </div>
       </div>
       <div className="bg-gold-mobile md:bg-gold-website md:min-h-full ">
-        <p className="hidden md:text-center">
-          © 2021 BITNANCE CO., LTD ALL RIGHTS RESERVED
-        </p>
         <p className="text-center text-sm p-1  sm:p-3 sm:text-md">
           © 2021 BITNANCE CO., LTD ALL RIGHTS RESERVED
         </p>
