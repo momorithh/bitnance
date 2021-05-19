@@ -8,8 +8,10 @@ module.exports = {
       },
       colors: {
         'bnc-yellow': '#F5DF4D',
+        'bnc-white': '#F7F7F7',
       },
       height: {
+        680: '500px',
         480: '463px',
         300: '300px',
         250: '250px',
@@ -24,6 +26,7 @@ module.exports = {
         'pact-desktop': "url('/pact-desktop.png')",
         'pact-mobile': "url('/pact-mobile.png')",
         'pact-ipad': "url('/pact-ipad.png')",
+        'pact-xl': "url('/pact-xl.png')",
         'blue-desktop': "url('/blue-desktop.png')",
         'blue-mobile': "url('/blue-mobile.png')",
         'footer-website': "url('/footer-website.png')",
