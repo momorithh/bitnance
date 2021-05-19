@@ -44,7 +44,7 @@ export default function Home() {
           </div>
         </section>
         {/* </div> */}
-        <div className="bg-white md:bg-gray-800 2xl:bg-bnc-white">
+        <div className="bg-white 2xl:bg-bnc-white">
           <div className="lg:h-480 2xl:bg-pact-xl 2xl:bg-cover 2xl:h-680  bg-center md:bg-cover md:bg-pact-desktop bg-no-repeat pt-2">
             <div className="md:grid md:grid-cols-2 min-h-full sm:px-10">
               <div className="col-start-2 flex flex-col justify-center">
