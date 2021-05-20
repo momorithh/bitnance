@@ -20,7 +20,7 @@ export default function Home() {
           <div className="bg-bnc-mobile bg-cover h-auto sm:bg-bnc-banner sm:bg-center sm:bg-cover bg-no-repeat xl:h-95">
             <div className="xl:pt-36 sm:py-20 xl:py-10 sm:pl-20 md:mr-7 lg:mr-0 xl:px-48 px-6 pt-4">
               <h1 className=" text-white font-bold mt-16 text-md lg:text-5xl sm:text-3xl">
-                บริษัทพัฒนาซอฟท์แวร์
+                บริษัทพัฒนาซอฟต์แวร์
                 <br />
                 และแอพพลิเคชั่นทางด้านฟินเทค
               </h1>
@@ -142,8 +142,9 @@ export default function Home() {
                   className="w-12 md:w-16 md:h-16 mx-auto"
                 />
                 <p className="text-center text-md md:text-lg pt-3 font-light">
-                  ผู้บริหารมีประสบการณ์และ <br className="hidden xl:block" />
-                  ความเชี่ยวชาญในด้านการเงิน <br className="hidden xl:block" />
+                  ผู้บริหารมีประสบการณ์และ
+                  <br className="hidden xl:block" />
+                  เชี่ยวชาญในด้านการเงิน <br className="hidden xl:block" />
                   การลงทุนระดับโลกมานานกว่า 10 ปี
                 </p>
               </div>
