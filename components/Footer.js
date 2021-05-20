@@ -9,7 +9,7 @@ export function Footer() {
               <h6 className="break-words text-white mt-4 text-sm sm:text-xl font-light">
                 Bitnance Co., Ltd.
                 <br />
-                245 ซ.นาคนิวาส 16 ถนนนาคนิวาส <br />
+                243 ซ.นาคนิวาส 16 ถนนนาคนิวาส <br />
                 แขวง/เขต ลาดพร้าว กทม. 10230
               </h6>
               <div className="mt-4">
