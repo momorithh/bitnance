@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <div>
       <Navbar />
-      <div className="sm:bg-contact-banner bg-contact-mobile h-80 bg-center bg-cover bg-no-repeat xl:h-95" />
+      <div className="sm:bg-contact-banner bg-contact-mobile h-60 bg-center bg-cover bg-no-repeat xl:h-95" />
       <div className="md:bg-contact-website bg-white-contact h-full md:bg-cover md:bg-center md:bg-no-repeat ">
         <div className="md:p-20 xl:grid md:grid-cols-2">
           <img src="map.png" alt="" className="p-3 xl:pl-32" />
