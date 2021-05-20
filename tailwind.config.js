@@ -22,9 +22,9 @@ module.exports = {
       },
       backgroundImage: (theme) => ({
         'bnc-banner': "url('/banner.png')",
-        'bnc-mobile': "url('/banner-mobile.png')",
+        'bnc-mobile': "url('/banner-mobilee.png')",
         'pact-desktop': "url('/pact-desktop.png')",
-        'pact-mobile': "url('/pact-mobile.png')",
+        'pact-mobile': "url('/pact-mobilee.png')",
         'pact-ipad': "url('/pact-ipad.png')",
         'pact-xl': "url('/pact-xl.png')",
         'blue-desktop': "url('/blue-desktop.png')",
