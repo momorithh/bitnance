@@ -29,12 +29,12 @@ export function Navbar() {
 
   return (
     <nav className={`${navBackground} fixed inset-x-0`}>
-      <div className="xl:px-48 md:pl-24 px-6 items-center mx-auto py-4 flex justify-between">
+      <div className="xl:px-44 md:pl-24 px-6 items-center mx-auto py-4 flex justify-between">
         <Link href="/">
           <img src="logo.png" alt="logo" className="w-32 md:w-48" />
         </Link>
 
-        <div className="hidden ipad:flex justify-evenly w-1/3 items-baseline">
+        <div className="hidden ipad:flex justify-around w-1/3 items-baseline">
           <Link href="/contact">
             <a
               className={
@@ -47,7 +47,7 @@ export function Navbar() {
             </a>
           </Link>
 
-          <button className="border border-white w-20 h-8 rounded-sm bg-transparent text-white ml-5">
+          <button className="border border-white w-20 h-8 rounded-sm bg-transparent text-white">
             <div className="flex justify-center">
               <span className="text-center">Thai</span>
 
