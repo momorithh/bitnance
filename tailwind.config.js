@@ -13,9 +13,13 @@ module.exports = {
       height: {
         680: '500px',
         480: '463px',
+        400: '400px',
         300: '300px',
         250: '250px',
         95: '92vh',
+      },
+      width: {
+        460: '460px',
       },
       fontFamily: {
         body: ['Noto Sans Thai', 'Noto Sans', 'sans-serif'],
@@ -37,6 +41,7 @@ module.exports = {
         'contact-banner': "url('/contact-banner.png')",
         'contact-mobile': "url('/contact-mobile.png')",
         'white-contact': "url('/white-contat.png')",
+        block: "url('/block-bg.png')",
         sg: "url('/sg.png')",
       }),
     },

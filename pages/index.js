@@ -189,9 +189,9 @@ export default function Home() {
           </div>
         </div>
         <div className="border-2 border-gray-100"></div>
-        <div className="md:container mx-auto bg-white">
+        {/* <div className="md:container mx-auto bg-white">
           <img src="news.png" alt="" className="w-full p-2 xl:py-8 xl:px-24" />
-        </div>
+        </div> */}
 
         <Footer />
       </main>

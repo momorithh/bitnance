@@ -95,15 +95,10 @@
   }
 }
 
-/* .bg-img {
-    height: 100% ;
-    background: no-repeat;
-    background-attachment: fixed;
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-  } */
+.block-cover {
+  background-repeat: no-repeat;
+  background-size: contain, cover;
+}
 
 .nav-active {
   background: #333333;

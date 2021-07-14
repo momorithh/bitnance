@@ -14,10 +14,10 @@ export function Footer() {
               </h6>
               <div className="mt-4">
                 <h6 className="text-white text-sm sm:text-xl font-light">
-                  Phone : 080-309-5942
+                  Phone : 02-480-8888
                 </h6>
                 <h6 className="text-white text-sm sm:text-xl pb-4 font-light">
-                  Email : info@bitnance.com
+                  Email : support@bitnance.com
                 </h6>
               </div>
             </div>
