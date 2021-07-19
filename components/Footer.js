@@ -17,7 +17,7 @@ export function Footer() {
                   Phone : 02-480-8888
                 </h6>
                 <h6 className="text-white text-sm sm:text-xl pb-4 font-light">
-                  Email : support@bitnance.com
+                  Email : info@bitnance.com
                 </h6>
               </div>
             </div>
