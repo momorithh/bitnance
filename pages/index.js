@@ -33,13 +33,6 @@ export default function Home() {
                 ประสิทธิภาพสูงเข้าถึงง่าย รวดเร็ว มั่นใจ
                 และเน้นความปลอดภัยสูงสุด
               </p>
-              {/* <p className="block text-white sm:text-2xl font-light">
-                สร้างประสบการณ์ใหม่ทางด้านการเงินการลงทุนให้กับผู้ใช้งานด้วย
-              </p>
-              <p className="block text-white pb-8 sm:pb-0 sm:text-2xl font-light">
-                ประสิทธิภาพสูงเข้าถึงง่าย รวดเร็ว มั่นใจ
-                และเน้นความปลอดภัยสูงสุด
-              </p> */}
             </div>
           </div>
         </section>
