@@ -22,7 +22,7 @@ export default function Contact() {
             </p>
             <div className="my-6 md:mt-10 text-gray-600">
               <p className="text-md xl:text-lg 2xl:text-2xl font-light">
-                โทร : 080-309-5942
+                โทร : 02-480-8888
               </p>
               <p className="text-md xl:text-lg 2xl:text-2xl font-light text-gray-600">
                 อีเมล : info@bitnance.com
